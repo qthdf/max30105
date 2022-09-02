@@ -9,6 +9,12 @@
     "files": [
         "main.blocks",
         "main.ts",
+        "heartRate.cpp",
+        "heartRate.h",
+        "MAX30105.cpp",
+        "MAX30105.h",
+        "spo2_algorithm.cpp",
+        "spo2_algorithm.h",
         "README.md"
     ],
     "testFiles": [
